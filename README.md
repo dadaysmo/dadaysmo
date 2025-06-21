@@ -39,7 +39,10 @@
 </div>
 
 <!-- a parte do jogo da cobrinha -->
+<div align="center"
 <img src="https://raw.githubusercontent.com/dadaysmo/dadaysmo/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
 ---
