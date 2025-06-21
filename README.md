@@ -4,7 +4,7 @@
 ---
 <div align="center">
 
-## <img src="link do gato em pé" width="28px"> Sou uma desenvolvedora back-end em formação <img src="link do gato deitado" width="28px">
+## <img src="https://raw.githubusercontent.com/dadaysmo/dadaysmo/refs/heads/main/gifs/esquerda.png" width="28px"> Sou uma desenvolvedora back-end em formação <img src="https://github.com/dadaysmo/dadaysmo/blob/main/gifs/direita.png" width="28px">
 🎓 Graduanda em ADS na UNIT-PE pelo Embarque Digital<br>
 </div>
 
