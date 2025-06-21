@@ -1,6 +1,6 @@
 <!-- parte superior da página -->
-<img width="50%" src="https://raw.githubusercontent.com/dadaysmo/dadaysmo/refs/heads/main/gifs/totoro.gif"/>
+<img width="50%" src="https://github.com/dadaysmo/dadaysmo/blob/main/gifs/gif_header.gif?raw=true"/>
 
 ---
-<div align="left">
+<div align="center">
 
