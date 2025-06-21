@@ -48,4 +48,4 @@
 ---
 
 <!-- parte inferior da página -->
-<img width="100%" src="link do footer"/>
+<img width="100%" src="https://github.com/dadaysmo/dadaysmo/blob/main/gifs/footer.png?raw=true"/>
