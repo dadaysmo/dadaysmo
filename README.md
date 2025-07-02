@@ -12,7 +12,7 @@
   <a href="https://github.com/dadaysmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dadaysmo&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadaysmo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </div>
+</div>
 
 
 <!-- Distintivos de Linguagens e Habilidades -->
