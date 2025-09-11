@@ -25,12 +25,12 @@
 </div>
 <br>
 
-<!-- Contador de Visitantes -->
+<!-- Contador de Visitantes
 <div align="center">
   <br><p align="center"><br>Quantidade de Visitantes</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dadaysmo}/count.svg" /></p> 
   <br>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://www.instagram.com/dadaysmo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
