@@ -4,7 +4,7 @@
 ---
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/dadaysmo/dadaysmo/refs/heads/main/gifs/esquerda.png" width="40px"> Explorando o universo do desenvolvimento back-end com foco e propósito <img src="https://github.com/dadaysmo/dadaysmo/blob/main/gifs/direita.png" width="40px">
+## <img src="https://raw.githubusercontent.com/dadaysmo/dadaysmo/refs/heads/main/gifs/esquerda.png" width="30px"> Explorando o universo do desenvolvimento back-end com foco e propósito <img src="https://github.com/dadaysmo/dadaysmo/blob/main/gifs/direita.png" width="30px">
 🎓 Graduanda em ADS na UNIT-PE pelo Embarque Digital<br>
 </div>
 
